@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/GoodController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Admin/TrashController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/brand/create.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/brand/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/brand/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/categories/create.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/categories/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/categories/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/express/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/goods/create.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/goods/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/goods/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/index/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/layouts/_msg.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/trash/index.blade.php" charset="UTF-8" />
+  </component>
+</project>

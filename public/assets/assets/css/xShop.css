@@ -1,0 +1,85 @@
+/*首页*/
+.x-list .price {
+	color: #FE4900;
+	margin-top: 5px;
+}
+.x.list img.ico {
+	height:83px;
+}
+.x-list .img {
+	position: relative;
+}
+.am-list-news-default .am-list.x-list .am-list-thumb img.tag {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60%;
+}
+
+
+/*导航*/
+.am-navbar-default .am-navbar-nav {
+	background-color:#fff;
+
+}
+.am-navbar-default a {
+	color: #999;
+}
+.am-navbar-default a.on {
+	color: #FF5722;
+}
+.am-header-default {
+	background-color: #f2f2f2;
+}
+.am-gotop-fixed .am-gotop-icon:hover, .am-header-default .am-header-title, .am-header-default .am-header-title a {
+    color: #666;
+}
+
+.am-header-default .am-header-nav>a {
+	    color: #666;
+}
+
+/*产品列表*/
+.am-list>li:first-child {
+	border-top: none;
+}
+
+
+.am-header {
+    border-bottom: 1px solid #eee;
+}
+
+/*产品分类*/
+.x-category {
+	margin:0 10px;
+}
+
+.x-category li h3{
+	text-align: center;
+}
+.page-category-wrap {
+    overflow: hidden;
+    background: #F5F5F5;
+    padding-bottom: 1.2rem;
+}
+
+.page-category-wrap .list-wrap {
+    background: #FFF;
+    margin: 10px 10px;
+    overflow: hidden;
+    border-bottom: 1px solid #ECECEC;
+    border-right: 1px solid #ECECEC;
+}
+
+.page-category-wrap .list_title {
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+    font-weight: 400;
+    color: #333;
+}
+
+.avatar {
+	margin: 30px 0;
+	text-align: center;
+}
